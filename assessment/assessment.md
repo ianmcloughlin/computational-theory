@@ -111,6 +111,4 @@ Note that the overall impression your submission creates may influence marks in 
 - Your repository should reflect a process of review and refinement, demonstrating continuous improvement.  
 - Your commit history should demonstrate your refinement of both code and explanations over time.
 
-***
-
-**End**
+## End
