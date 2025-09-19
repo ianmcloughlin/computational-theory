@@ -4,7 +4,7 @@ September 2025
 
 ## Learning Materials
 
-[**Click here for Video Lectures**](https://atlantictu-my.sharepoint.com/:f:/g/personal/ian_mcloughlin_atu_ie/EukrAGdpXKZAkWJ-qqlg8sUBFR1Nj3A1RiBc7XUu7K4c0g?e=72tpg2) (ATU Login required)
+[**Click here for Video Lectures**](https://atlantictu-my.sharepoint.com/:f:/g/personal/ian_mcloughlin_atu_ie/EukrAGdpXKZAkWJ-qqlg8sUBYqXC7DPMp6DPhsTfjKPkKA) (ATU Login required)
 
 The learning materials are in the [materials folder](materials).
 
