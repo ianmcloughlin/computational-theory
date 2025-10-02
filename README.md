@@ -1,6 +1,6 @@
 # Computational Theory
 
-September 2025
+Winter
 
 ## Learning Materials
 
